@@ -1,4 +1,4 @@
-# Victor tiny, private library assistant
+# Victor the Library Assistant
 
 Victor is a 100% local, Ollama-powered LLM that was created by Ms. Kristie Feguer, a librarian.  
 No cloud, no OpenAI/Claude/Gemini/xAI, no internet required after setup.
